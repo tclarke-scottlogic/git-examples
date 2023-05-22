@@ -1,6 +1,6 @@
 public class SourceFile {
     public static int getValue() {
-        return 1;
+        return 2;
     }
 
     public static void main(String[] args){
