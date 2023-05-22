@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class TestFile {
     @Test
-    void getValue() {
-        assertEquals(1, SourceFile.getValue());
+    void getVersion() {
+        assertEquals(1, SourceFile.getVersion());
     }
 }
